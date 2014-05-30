@@ -1,0 +1,16 @@
+“I dreamed of a phone\
+nOpen source and hackable\nAndroid 
+for the win!“I dreamed of a phone\
+nOpen source and hackable\nAndroid 
+for the win!“I dreamed of a phone\
+nOpen source and hackable\nAndroid 
+for the win!“I dreamed of a phone\
+nOpen source and hackable\nAndroid 
+for the win!<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidLove</string>
+    <string name="hello_world">“I dreamed of a phone\n Open source and hackable\n Android for the win!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
